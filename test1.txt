@@ -1,7 +1,2 @@
-A change made.
-<<<<<<< HEAD
-Changes made
+New changes for git hub
 
-=======
-Made more changes.
->>>>>>> parent of 58ca461 (New changes made)
