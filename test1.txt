@@ -1,0 +1,7 @@
+A change made.
+<<<<<<< HEAD
+Changes made
+
+=======
+Made more changes.
+>>>>>>> parent of 58ca461 (New changes made)
