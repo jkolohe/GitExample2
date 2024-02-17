@@ -1,1 +1,3 @@
-This is a new text file.
+This is a NEW TEXT FILE!
+Sorry forgot to add this!
+Need to make a commit
