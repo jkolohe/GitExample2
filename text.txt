@@ -1,4 +1,2 @@
-This is a NEW TEXT FILE!
-
 I created a new line
-
+Testing testing 1234...
