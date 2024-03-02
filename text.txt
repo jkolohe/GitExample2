@@ -1,4 +1,4 @@
 This is a NEW TEXT FILE!
 
-I created a new line for testing the merge
+I created a new line
 
