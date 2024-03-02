@@ -3,3 +3,4 @@ Sorry forgot to add this!
 Need to make a commit
 More commits
 Another commit
+I created a new line for testing the merge
