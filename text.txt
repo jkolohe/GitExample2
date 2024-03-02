@@ -1,5 +1,2 @@
 This is a NEW TEXT FILE!
 Sorry forgot to add this!
-Need to make a commit
-More commits
-Another commit
